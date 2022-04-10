@@ -1,0 +1,1 @@
+SHA1(debiantest-1.vmdk)= 80364aca0b9502daf9f997795bf0a3211026ce64

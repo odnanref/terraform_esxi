@@ -3,3 +3,6 @@ Example code to test using multiple ESXI without a vsphere main server.
 :'(
 
 
+Provider used:
+https://github.com/josenk/terraform-provider-esxi
+
